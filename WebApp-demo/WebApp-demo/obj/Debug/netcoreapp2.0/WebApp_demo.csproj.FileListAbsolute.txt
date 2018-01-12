@@ -1,0 +1,11 @@
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\bin\Debug\netcoreapp2.0\WebApp_demo.deps.json
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\bin\Debug\netcoreapp2.0\WebApp_demo.runtimeconfig.json
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\bin\Debug\netcoreapp2.0\WebApp_demo.runtimeconfig.dev.json
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\bin\Debug\netcoreapp2.0\WebApp_demo.dll
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\bin\Debug\netcoreapp2.0\WebApp_demo.pdb
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.AssemblyInfoInputs.cache
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.AssemblyInfo.cs
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.dll
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.pdb
+C:\Users\zhang\source\repos\project2\WebApp-demo\WebApp-demo\obj\Debug\netcoreapp2.0\WebApp_demo.csprojResolveAssemblyReference.cache
